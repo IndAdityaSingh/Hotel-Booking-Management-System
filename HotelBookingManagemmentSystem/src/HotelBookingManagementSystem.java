@@ -34,3 +34,4 @@ public class HotelBookingManagementSystem {
         System.out.println("Application initialized successfully!");
     }
 }
+

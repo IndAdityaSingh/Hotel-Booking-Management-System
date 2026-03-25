@@ -197,3 +197,4 @@ class RoomInventory {
         return inventoryMap.containsKey(roomType);
     }
 }
+
